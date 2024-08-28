@@ -23,3 +23,5 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
+
+![sea_level_plot](https://github.com/user-attachments/assets/f8129a90-51df-4580-8e96-ee11abd158bc)
